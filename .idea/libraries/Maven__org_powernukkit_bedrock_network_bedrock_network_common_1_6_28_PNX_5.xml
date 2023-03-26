@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.powernukkit.bedrock.network:bedrock-network-common:1.6.28-PNX.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powernukkit/bedrock/network/bedrock-network-common/1.6.28-PNX.5/bedrock-network-common-1.6.28-PNX.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powernukkit/bedrock/network/bedrock-network-common/1.6.28-PNX.5/bedrock-network-common-1.6.28-PNX.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powernukkit/bedrock/network/bedrock-network-common/1.6.28-PNX.5/bedrock-network-common-1.6.28-PNX.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

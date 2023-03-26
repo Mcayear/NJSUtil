@@ -1,0 +1,8 @@
+name: NJSUtil
+main: cn.vusv.njsutil.Main
+version: "1.0.0"
+api: [ "1.0.14" ]
+load: POSTWORLD
+author: Mcayear
+description: 年JS工具包
+prefix: "NJSUtil"
